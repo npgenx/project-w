@@ -7,6 +7,8 @@ const nextConfig: NextConfig = {
     },
     output: 'export', // <=== enables static exports
     reactStrictMode: true,
+    basePath: '',
+    assetPrefix: '',
 };
 
 export default nextConfig;
