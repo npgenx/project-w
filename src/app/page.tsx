@@ -86,7 +86,7 @@ export default function Home() {
                   />
                   Examples
               </a>
-              <a href="google.com">Google</a>
+              <a href="http://google.com">Google</a>
           </footer>
       </div>
   );
