@@ -6,7 +6,7 @@ const nextConfig = {
         loader: 'akamai',
         path: '/project-w/',
     },
-    assetPrefix: isProd ? '/project-w/' : '',
+    // assetPrefix: isProd ? '/project-w/' : '',
     basePath: isProd ? '/project-w' : '',
     output: 'export',
 };
