@@ -9,6 +9,7 @@ const nextConfig = {
     // assetPrefix: isProd ? '/project-w/' : '',
     basePath: process.env.DEPLOYED_GITHUB_PATH || '',
     output: 'export',
+    // distDir: 'dist',
 };
 
 export default nextConfig;
